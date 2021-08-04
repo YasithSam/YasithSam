@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [www.yasithsam.gq](www.yasithsam.gq)
+
 
 - 📝 I regularly write articles on [https://yasith-sam7.medium.com/](https://yasith-sam7.medium.com/)
 
