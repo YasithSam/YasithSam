@@ -6,10 +6,6 @@
 
 
 
-
-
-- 📝 I regularly write articles on [https://yasith-sam7.medium.com/](https://yasith-sam7.medium.com/)
-
 - 📫 How to reach me **yasith.sam7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
