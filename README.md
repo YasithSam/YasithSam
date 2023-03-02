@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasith Samaradivakara</h1>
-<h3 align="center">Aspiring to help mankind by exploring the limitless possibilities of computers!</h3>
+<h3 align="center">Aspiring to help mankind by exploring the limitless possibilities of technology</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithsam&label=Profile%20views&color=0e75b6&style=flat" alt="yasithsam" /> </p>
